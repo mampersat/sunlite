@@ -1,0 +1,18 @@
+{
+ "event" : [
+     {
+        "type":"intent",
+        "intent": [
+            {
+                "slots" : [
+                    {
+                        "MyCity": [
+                             { "value": "Concord, NH"}
+                            ]
+                    }   
+                ]
+            }
+        ]
+    }
+]
+}
